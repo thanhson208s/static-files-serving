@@ -1,0 +1,23 @@
+{
+  "name": "eventhosting",
+  "version": "1.0.0",
+  "description": "static files serving",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhson208s/static-files-serving.git"
+  },
+  "author": "SonBui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhson208s/static-files-serving/issues"
+  },
+  "homepage": "https://github.com/thanhson208s/static-files-serving#readme"
+}
