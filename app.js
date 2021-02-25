@@ -10,7 +10,7 @@ app.get('/*.manifest', (req, res) => {
 });
 
 app.get('/*', (req, res) => {
-    res.send('staticLive/' + req.url);
+    res.send('staticLive' + req.url);
 });
 
 // app.use(express.static('staticLive'));
