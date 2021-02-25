@@ -9,11 +9,11 @@ app.get('/*.manifest', (req, res) => {
     res.download('staticLive' + req.url);
 });
 
-app.get('/*', (req, res) => {
-    res.send('staticLive' + req.url);
-});
+// app.get('/', (req, res) => {
+//     res.send('staticLive' + req.url);
+// });
 
-// app.use(express.static('staticLive'));
+app.use(express.static('staticLive'));
 
 app.listen(port, () => {
     console.log('Server started on port ' + port);
