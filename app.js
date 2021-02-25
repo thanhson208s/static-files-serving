@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const PORT = 3000;
+const port = process.env.PORT || 8080;
 
 app.get('/', (req, res) => {
     res.send('Hello World!');
@@ -8,6 +8,6 @@ app.get('/', (req, res) => {
 
 app.use(express.static('staticLive'));
 
-app.listen(PORT, () => {
+app.listen(port, () => {
     console.log('Server started on port ' + PORT);
 });
