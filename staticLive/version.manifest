@@ -1,8 +1,8 @@
 {
-	"packageUrl" : "http://120.138.65.103/sources/apk/tienlen/mobile/",
-	"remoteManifestUrl" : "http://120.138.65.103/sources/apk/tienlen/mobile/project.manifest",
-	"remoteVersionUrl" : "http://120.138.65.103/sources/apk/tienlen/mobile/version.manifest",
-	"version" : "6",
+	"packageUrl" : "https://event-hosting-test.herokuapp.com/",
+	"remoteManifestUrl" : "https://event-hosting-test.herokuapp.com/project.manifest",
+	"remoteVersionUrl" : "https://event-hosting-test.herokuapp.com/version.manifest",
+	"version" : "7",
 	"engineVersion" : "3.6.1",
 	"assets" : {},
     "searchPaths" : []
