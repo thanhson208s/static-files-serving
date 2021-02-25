@@ -1,8 +1,8 @@
 {
-	"packageUrl" : "https://event-hosting-test.herokuapp.com/",
-	"remoteManifestUrl" : "https://event-hosting-test.herokuapp.com/project.manifest",
-	"remoteVersionUrl" : "https://event-hosting-test.herokuapp.com/version.manifest",
-	"version" : "7",
+	"packageUrl" : "http://event-hosting-test.herokuapp.com/",
+	"remoteManifestUrl" : "http://event-hosting-test.herokuapp.com/project.manifest",
+	"remoteVersionUrl" : "http://event-hosting-test.herokuapp.com/version.manifest",
+	"version" : "8",
 	"engineVersion" : "3.6.1",
 	"assets" : {},
     "searchPaths" : []
