@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Symbol 1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,394},{121,319}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{121,319}</string>
+			</dict>
+			<key>Symbol 4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,5},{274,379}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{276,384}</string>
+			</dict>
+			<key>Symbol 5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,723},{121,121}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{121,121}</string>
+			</dict>
+			<key>Symbol 7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,854},{23,24}}</string>
+				<key>offset</key>
+				<string>{-1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,25}</string>
+			</dict>
+			<key>Symbol 8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,888},{23,24}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,25}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>texture.png</string>
+			<key>realTextureFileName</key>
+			<string>texture.png</string>
+			<key>size</key>
+			<string>{284,917}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>284</integer>
+			<key>height</key>
+			<integer>917</integer>
+		</dict>
+	</dict>
+</plist>
