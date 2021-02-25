@@ -4,9 +4,13 @@ const app = express();
 const port = process.env.PORT || 8080;
 // const port = 3000;
 
-app.get('/*', (req, res) => {
+app.get('/*.manifest', (req, res) => {
     console.log(path.dirname(req.url), path.basename(req.url));
     res.download('staticLive' + req.url);
+});
+
+app.get('/*', (req, res) => {
+    res.send('staticLive/' + req.url);
 });
 
 // app.use(express.static('staticLive'));
